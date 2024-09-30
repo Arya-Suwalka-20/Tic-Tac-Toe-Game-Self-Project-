@@ -28,7 +28,7 @@ The `q1.py` file implements the AI logic using techniques like:
 * `update_history(self, action)`: Updates the game history with the chosen action.
 * `backward_induction(history_obj)`: (Optional) Implements a dynamic programming approach like backward induction (if used).
 
-## Customization
+<!-- ## Customization
 
 You can modify the provided AI approach (e.g., experiment with different algorithms) or explore advanced optimizations. Consider visualizing the game state for better understanding and user interaction.
 
@@ -42,4 +42,4 @@ Pull requests and suggestions are welcome! Create a pull request to share your i
 
 ## Further Learning
 
-The provided PDFs (or online resources) offer foundational knowledge on AI and Game Theory. Explore online tutorials and libraries like Minimax and Alpha-Beta pruning for more in-depth analysis.
+The provided PDFs (or online resources) offer foundational knowledge on AI and Game Theory. Explore online tutorials and libraries like Minimax and Alpha-Beta pruning for more in-depth analysis. -->
